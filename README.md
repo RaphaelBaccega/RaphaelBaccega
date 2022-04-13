@@ -1,6 +1,6 @@
 ### Seja Bem-Vindo ao Meu Perfil👋
 ➣ 🎓 **Cursando** ADS - FATEC | DS - ETEC <br>
-➣ 👨🏻‍💻 **Estudando** HTML, CSS, JS, PHP e SQL <br>
+➣ 👨🏻‍💻 **Estudando** HTML, CSS, JS, PHP e MySQL <br>
 ➣  :mailbox_with_mail:  **Contato** raphaelbaccegadev@gmail.com
 
 
