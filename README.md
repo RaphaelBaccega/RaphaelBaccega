@@ -24,9 +24,10 @@
   <h2>🛠️ Tools</h2> 
   
   <div align="center">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/Figma-cc3e13?style=for-the-badge&logo=figma&logoColor=white" height="25"/>
      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
-     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"> 
+     <img src="https://img.shields.io/badge/Git-F24E1E?style=for-the-badge&logo=git&logoColor=white" height="25"> 
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" height="25"> 
   </div>
   
 ##
