@@ -11,7 +11,7 @@
   <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelBaccega&layout=compact&theme=react"/>
 </div> 
   
-  <h2>🖥️ Tecnologias</h2> 
+  <h2>🖥️ Technologies</h2> 
   
   <div align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
