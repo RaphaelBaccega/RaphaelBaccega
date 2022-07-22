@@ -11,7 +11,7 @@
   <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelBaccega&layout=compact&theme=react"/>
 </div> 
   
-  <h2>🖥️ Technologies and Tools</h2> 
+  <h2>🖥️ Tecnologias e Ferramentas</h2> 
   
   <div align="center">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
