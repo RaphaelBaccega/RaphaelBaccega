@@ -1,6 +1,5 @@
 ### Seja Bem-Vindo ao Meu Perfil👋
 ➣ 🎓 **Cursando** ADS - Anhanguera <br>
-➣ 👨🏻‍💻 **Estudando** HTML, CSS, JavaScript, PHP e Bootstrap <br>
 ➣  :mailbox_with_mail:  **Contato** raphaelbaccegadev@gmail.com
 
 
